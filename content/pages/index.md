@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId: Home
     colors: colors-a
     title: 'Hola, Soy Eloy Chavez'
     subtitle: 'One platform, one community.'
