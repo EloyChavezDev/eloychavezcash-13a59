@@ -26,7 +26,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/download20211202214807.png
       altText: Hero image
     styles:
       self:
