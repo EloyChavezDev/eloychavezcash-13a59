@@ -7,7 +7,7 @@ sections:
     title: Love where you work
     subtitle: ''
     badge:
-      label: ¿No
+      label: '¿No te alcanza el dinero? '
       elementId: ''
       styles:
         self:
