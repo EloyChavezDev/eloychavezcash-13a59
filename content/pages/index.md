@@ -7,7 +7,7 @@ sections:
     colors: colors-a
     title: |-
       Hola yo soy,
-       Eloy Chavez
+      Eloy Chavez
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
