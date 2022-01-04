@@ -18,6 +18,7 @@ sections:
         label: Twitter
         url: 'https://twitter.com/EloyChavezCash'
         style: primary
+        showIcon: true
       - type: Link
         label: Learn More
         url: /
