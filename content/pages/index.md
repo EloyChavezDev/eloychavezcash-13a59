@@ -20,6 +20,7 @@ sections:
         style: primary
         showIcon: true
         icon: twitter
+        iconPosition: left
       - type: Link
         label: Learn More
         url: /
