@@ -6,7 +6,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "Eloy Chavez CA$H",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
