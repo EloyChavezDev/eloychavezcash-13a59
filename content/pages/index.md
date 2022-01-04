@@ -40,6 +40,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
