@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/eloycash.png
+      url: /images/download20211202214807.png
       altText: Image alt text
       caption: Image caption
     styles:
