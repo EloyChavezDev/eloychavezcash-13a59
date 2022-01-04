@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: 'Hi, Soy Eloy Chavez'
     subtitle: ''
     badge:
       label: ¿No te alcanza el dinero? ¿No tienes ahorros?
