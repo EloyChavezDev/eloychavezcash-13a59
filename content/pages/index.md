@@ -49,6 +49,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
