@@ -12,7 +12,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: "\U0001F1F2\U0001F1FD Mexicano en busca de estabilidad Financiera, compartiré mis actividades y aprendizajes para que tú también logres administrar tu dinero \U0001F4B5\n"
+    text: "Soy un Mexicano en busca de estabilidad Financiera, aquí encontrarás parte de mis actividades y aprendizajes para que tú también logres administrar tu dinero \U0001F4B5\n"
     actions:
       - type: Button
         label: Sign Up
