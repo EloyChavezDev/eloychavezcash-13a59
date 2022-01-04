@@ -7,7 +7,7 @@ sections:
     title: Love where you work
     subtitle: ''
     badge:
-      label: ¿
+      label: ¿No
       elementId: ''
       styles:
         self:
