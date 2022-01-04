@@ -12,10 +12,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "\U0001F1F2\U0001F1FD Mexicano en busca de estabilidad Financiera, compartiré mis actividades y aprendizajes para que tú también logres administrar tu dinero \U0001F4B5\n"
     actions:
       - type: Button
         label: Sign Up
