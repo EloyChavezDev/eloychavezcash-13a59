@@ -54,55 +54,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: HeroSection
-    elementId: Home
-    colors: colors-a
-    title: |-
-      Hola yo soy,
-      Eloy Chavez
-    subtitle: 'One platform, one community.'
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/download20211202214807.png
-      altText: Image alt text
-      caption: Image caption
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-3
-          - pb-0
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-primary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
