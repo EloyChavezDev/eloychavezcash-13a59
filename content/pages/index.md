@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: Twitter
-        url: /
+        url: 'https://twitter.com/EloyChavezCash'
         style: primary
       - type: Link
         label: Learn More
