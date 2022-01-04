@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: Home
     colors: colors-a
-    title: 'Hola, Soy Eloy Chavez'
+    title: 'Hoi, Soy Eloy Chavez'
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
