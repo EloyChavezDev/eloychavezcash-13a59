@@ -7,7 +7,7 @@ sections:
     title: Love where you work
     subtitle: ''
     badge:
-      label: This is the badge
+      label: 'No '
       elementId: ''
       styles:
         self:
