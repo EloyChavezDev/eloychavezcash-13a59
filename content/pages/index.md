@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: Home
     colors: colors-a
-    title: 'Hola mi nombre es, Eloy Chavez'
+    title: Hola yo soy Eloy Chavez
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
