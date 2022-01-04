@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Love where you work
     subtitle: ''
     badge:
