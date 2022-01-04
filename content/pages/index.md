@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Twitter
         url: 'https://twitter.com/EloyChavezCash'
-        style: primary
+        style: secondary
         showIcon: true
         icon: twitter
         iconPosition: left
