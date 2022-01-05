@@ -27,7 +27,7 @@ sections:
         showIcon: true
         iconPosition: right
         icon: arrowRight
-      - label: Learn more
+      - label: V
         altText: ''
         url: /
         showIcon: false
