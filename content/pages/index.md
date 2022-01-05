@@ -27,6 +27,15 @@ sections:
         showIcon: true
         iconPosition: right
         icon: arrowRight
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       type: ImageBlock
       url: /images/download20211202214807.png
