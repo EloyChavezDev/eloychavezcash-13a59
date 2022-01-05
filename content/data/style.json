@@ -37,7 +37,7 @@
         "letterSpacing": "normal"
     },
     "h6": {
-        "size": "lg",
+        "size": "2xl",
         "weight": "bold",
         "decoration": "none",
         "case": "none",
