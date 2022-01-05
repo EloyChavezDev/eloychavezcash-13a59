@@ -25,6 +25,7 @@ sections:
         label: Visitar el blog
         url: /
         showIcon: true
+        iconPosition: right
     media:
       type: ImageBlock
       url: /images/download20211202214807.png
