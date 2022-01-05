@@ -12,7 +12,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: "Soy un Mexicano en busca de estabilidad Financiera, aquí encontrarás parte de mis actividades y aprendizajes para que tú también logres administrar tu dinero \U0001F4B5\n"
+    text: "Soy un Mexicano en busca de estabilidad Financiera, en mi blog encontrarás todo sobre finanzas personales, planeación para el retiro, inversiones, generar ingresos adicionales, ¡y más! \U0001F4B5\n\n\n"
     actions:
       - type: Button
         label: Twitter
