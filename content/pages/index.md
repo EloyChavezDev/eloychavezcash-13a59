@@ -21,12 +21,6 @@ sections:
         showIcon: true
         icon: twitter
         iconPosition: left
-      - type: Link
-        label: Visitar el blog
-        url: /
-        showIcon: true
-        iconPosition: right
-        icon: arrowRight
       - label: VISITAR EL BLOG
         altText: ''
         url: /
