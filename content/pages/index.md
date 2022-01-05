@@ -60,7 +60,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-a
+  - colors: colors-c
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
