@@ -30,7 +30,7 @@ sections:
       - label: VISITAR EL BLOG
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
