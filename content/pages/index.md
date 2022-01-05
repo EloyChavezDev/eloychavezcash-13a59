@@ -22,7 +22,7 @@ sections:
         icon: twitter
         iconPosition: left
       - type: Link
-        label: Learn More
+        label: Visitar el blog
         url: /
     media:
       type: ImageBlock
