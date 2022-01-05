@@ -27,7 +27,7 @@ sections:
         showIcon: true
         iconPosition: right
         icon: arrowRight
-      - label: V
+      - label: Visitar el blog
         altText: ''
         url: /
         showIcon: false
