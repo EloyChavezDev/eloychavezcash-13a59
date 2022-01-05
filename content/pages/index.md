@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: 'Hi, Soy Eloy Chavez'
+    title: Mejora tus Finanzas Personales
     subtitle: ''
     badge:
       label: ¿No te alcanza el dinero? ¿No tienes ahorros?
