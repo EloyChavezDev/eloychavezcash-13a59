@@ -162,7 +162,7 @@ sections:
         borderRadius: none
         borderWidth: 0
         borderStyle: none
-        borderColor: border-dark
+        borderColor: border-secondary
       title:
         textAlign: center
       subtitle:
