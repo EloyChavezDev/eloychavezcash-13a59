@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontHeadlines": "sans",
+    "fontHeadlines": "sansAlt",
     "h1": {
         "size": "5xl",
         "weight": "bold",
