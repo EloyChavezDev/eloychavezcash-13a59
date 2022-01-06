@@ -153,7 +153,8 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/Logo de blog gastronónico blanco y naranja con divertido
+            tazón de pasta ilustrado.png
           altText: Item image
         actions: []
         styles:
