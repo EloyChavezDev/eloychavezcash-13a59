@@ -143,7 +143,7 @@ sections:
               - pl-4
               - pb-6
               - pr-4
-    columns: 4
+    columns: 3
     enableHover: true
     styles:
       self:
