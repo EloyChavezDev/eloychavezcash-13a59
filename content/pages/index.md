@@ -62,7 +62,7 @@ sections:
     type: HeroSection
   - colors: colors-a
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: 'Qué puedes encontrar en el blog:'
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
