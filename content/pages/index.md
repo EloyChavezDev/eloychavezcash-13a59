@@ -161,7 +161,7 @@ sections:
           self:
             textAlign: left
     columns: 4
-    enableHover: false
+    enableHover: true
     styles:
       self:
         height: auto
