@@ -62,7 +62,7 @@ sections:
     type: HeroSection
   - colors: colors-a
     elementId: ''
-    title: 'Qué puedes encontrar en el blog:'
+    title: 'Qué puedes ap en el blog:'
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
