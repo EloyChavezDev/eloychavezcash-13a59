@@ -96,8 +96,8 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Aprende a disfrutar el dinero que percibes con moderación y sin culpas
+          (sabiendo que ya tienes un buen plan).
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
