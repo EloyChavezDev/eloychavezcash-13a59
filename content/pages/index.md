@@ -69,9 +69,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >+
+          Crea un plan para tu retiro que te permita obtener mucho más que tu
+          AFORE.
+
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
