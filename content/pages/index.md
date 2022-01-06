@@ -143,23 +143,6 @@ sections:
               - pl-4
               - pb-6
               - pr-4
-      - elementId: ''
-        title: Item Title
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            /images/Logo de blog gastronónico blanco y naranja con divertido
-            tazón de pasta ilustrado.png
-          altText: Item image
-        actions: []
-        styles:
-          self:
-            textAlign: left
     columns: 4
     enableHover: true
     styles:
