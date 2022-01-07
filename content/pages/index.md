@@ -390,6 +390,53 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - type: ContactSection
+    colors: colors-e
+    backgroundSize: inset
+    title: Get early access
+    text: >
+      Sign up your team today to be the first to try out our new product to
+      increase your team’s productivity
+    form:
+      type: FormBlock
+      elementId: sign-up-form
+      destination: ''
+      action: /.netlify/functions/submission_created
+      fields:
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
+      submitLabel: Sign Up
+      styles:
+        submitLabel:
+          textAlign: center
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pr-4
+          - pl-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+        boxShadow: xx-large
+      title:
+        textAlign: center
+      text:
+        textAlign: center
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
@@ -438,53 +485,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - type: ContactSection
-    colors: colors-e
-    backgroundSize: inset
-    title: Get early access
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increase your team’s productivity
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-      submitLabel: Sign Up
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-        boxShadow: xx-large
-      title:
-        textAlign: center
-      text:
-        textAlign: center
   - elementId: ''
     colors: colors-a
     variant: variant-a
