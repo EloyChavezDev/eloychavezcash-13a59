@@ -609,7 +609,7 @@ sections:
           - pt-24
           - pb-24
           - pr-4
-          - pl-0
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row
