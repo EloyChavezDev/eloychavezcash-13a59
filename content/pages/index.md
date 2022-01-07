@@ -174,7 +174,7 @@ sections:
   - type: ContactSection
     colors: colors-e
     backgroundSize: inset
-    title: Get early access
+    title: ¡SUSCRÍBETE AL NEWSLETTER!
     text: >
       Sign up your team today to be the first to try out our new product to
       increase your team’s productivity
