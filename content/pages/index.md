@@ -175,9 +175,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ¡SUSCRÍBETE AL NEWSLETTER!
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: "Libre de SPAM \U0001F609\n"
     form:
       type: FormBlock
       elementId: sign-up-form
