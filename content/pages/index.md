@@ -212,7 +212,7 @@ sections:
         textAlign: left
     type: ContactSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     backgroundSize: full
     title: Contact us
     text: We look forward to hearing from you.
