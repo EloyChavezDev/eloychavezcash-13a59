@@ -205,7 +205,7 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
-      submitLabel: Suscibirse
+      submitLabel: Suscribirse
     media:
       type: ImageBlock
       url: /images/careers.jpg
