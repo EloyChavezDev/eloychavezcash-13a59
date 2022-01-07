@@ -574,7 +574,7 @@ sections:
     type: TestimonialsSection
   - type: ContactSection
     colors: colors-e
-    backgroundSize: full
+    backgroundSize: inset
     title: Get early access
     text: >
       Sign up your team today to be the first to try out our new product to
