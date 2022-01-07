@@ -174,9 +174,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: |-
-
-      ¡SUSCRÍBETE AL NEWSLETTER!
+    title: ¡SUSCRÍBETE AL NEWSLETTER!
     text: >-
       Sign up your team today to be the first to try out our new product to
       increase your team's productivity.
