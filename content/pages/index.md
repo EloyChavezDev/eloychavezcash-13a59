@@ -175,7 +175,7 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: ¡SUSCRÍBETE AL NEWSLETTER!
-    text: We look forward to hearing from you.
+    text: "Libre de SPAM!!! \U0001F4AA\U0001F3FB\U0001F60E\n"
     form:
       type: FormBlock
       elementId: contact-form
