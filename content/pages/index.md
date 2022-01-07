@@ -174,7 +174,7 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    title: Contact us
+    title: ¡SUSCRÍBETE AL NEWSLETTER!
     text: We look forward to hearing from you.
     form:
       type: FormBlock
