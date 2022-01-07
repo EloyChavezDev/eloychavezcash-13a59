@@ -172,7 +172,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     backgroundSize: full
     title: ¡SUSCRÍBETE AL NEWSLETTER!
     text: "Libre de SPAM \U0001F609\n"
