@@ -613,7 +613,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-large
+        borderRadius: none
         boxShadow: xx-large
       title:
         textAlign: center
