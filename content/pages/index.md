@@ -232,46 +232,6 @@ sections:
       text:
         textAlign: left
     type: ContactSection
-  - elementId: ''
-    colors: colors-e
-    backgroundSize: full
-    title: ¡SUSCRÍBETE AL NEWSLETTER!
-    text: "Libre de SPAM \U0001F609\n"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: EmailFormControl
-          name: email
-          placeholder: Coloca tu email
-          isRequired: true
-          width: full
-      submitLabel: Suscribirse
-    media: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-    type: ContactSection
   - colors: colors-h
     subtitle: Trusted by
     elementId: ''
