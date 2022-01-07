@@ -187,7 +187,7 @@ sections:
           placeholder: Coloca tu email
           isRequired: true
           width: full
-      submitLabel: Sign Up
+      submitLabel: Suscribirse
     media: null
     styles:
       self:
