@@ -184,7 +184,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          placeholder: Your email
+          placeholder: Coloca tu email
           isRequired: 'true'
           width: full
       submitLabel: Sign Up
