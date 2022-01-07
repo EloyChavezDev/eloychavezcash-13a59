@@ -573,7 +573,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - type: ContactSection
-    colors: colors-f
+    colors: colors-e
     backgroundSize: inset
     title: Get early access
     text: >
